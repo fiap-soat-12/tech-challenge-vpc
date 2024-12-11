@@ -32,7 +32,7 @@ Este repositório é responsável por criar a VPC.
 
 ### Subindo a VPC
 
-  Caso deseje subir a aplicação em um cluster EKS em uma conta AWS, basta seguir os seguintes passos:
+  Caso deseje subir a VPC em uma conta AWS, basta seguir os seguintes passos:
   
   1. Certificar que o Terraform esteja instalado executando o comando `terraform --version`;
   ![terraform-version](./assets/terraform-version.png)
