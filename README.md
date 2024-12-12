@@ -27,6 +27,7 @@ Este repositório é responsável por criar a VPC.
 ### Desenvolvimento
 
 - **[Terraform](https://www.terraform.io/)**: Site oficial do Terraform.
+- **[AWS](https://aws.amazon.com/pt/)**: Site oficial da AWS.
 
 ## 🚀 Execução
 
