@@ -15,8 +15,8 @@ Este repositório é responsável por criar a VPC.
 ## 🛠 Tecnologias Utilizadas
 
 <div align="center">
-
-![AWSVPC](https://img.shields.io/badge/AWS_VPC-%23ED8B00.svg?style=for-the-badge&logoColor=white)
+  
+![AWSVPC](https://img.shields.io/badge/AWS%20VPC-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 ![GithubActions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
